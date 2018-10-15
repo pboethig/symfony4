@@ -1,0 +1,4 @@
+App\Entity\Actor:
+    actor{1..10}:
+      name: '<name()>'
+      picture: '<image("./public/images", 500, 500, "people", 0)>'

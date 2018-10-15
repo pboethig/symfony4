@@ -1,0 +1,7 @@
+easy_admin:
+    entities:
+        - App\Entity\Movie
+        - App\Entity\Actor
+        - App\Entity\Sale
+        - App\Entity\Enquiry
+        - App\Entity\Ticket
