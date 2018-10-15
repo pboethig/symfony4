@@ -1,5 +1,0 @@
-include:
-    - dummy.yml
-
-stdClass:
-    yet_another_dummy: {}
